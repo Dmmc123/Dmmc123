@@ -1,7 +1,7 @@
 Hi 👋 My name is Ruslan
 =======================
 
-Data Scientist
+ML Engineer
 --------------
 
 Average ML enjoyer
