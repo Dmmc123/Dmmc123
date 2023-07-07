@@ -27,6 +27,7 @@ Average ML enjoyer
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="scikit-learn" /></a>
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="36" height="36" alt="SciPy" /></a>
 <a href="https://platform.openai.com/docs" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/306500/openai.svg" width="36" height="36" alt="OpenAI API" /></a>
+<a href="https://api.python.langchain.com/en/latest/api_reference.html" target="_blank" rel="noreferrer"><img src="https://em-content.zobj.net/thumbs/160/apple/285/parrot_1f99c.png" width="36" height="36" alt="LangChain" /></a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="36" height="36" alt="HuggingFace" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="36" height="36" alt="NumPy" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="36" height="36" alt="pandas" /></a>
