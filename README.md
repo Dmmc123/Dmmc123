@@ -8,7 +8,7 @@ Average ML enjoyer
 
 * 🌍  I'm based in Abu Dhabi, UAE
 * ✉️  You can contact me at [@Dmmc123](https://t.me/Dmmc123)
-* 🧠  I'm learning LangChain
+* 🧠  I'm learning [W&B](https://wandb.ai/)
 * 🤝  I'm open to collaborating on Time-Series projects in Crypto
 * ⚡  I'm secretly an Isekai reader
 
